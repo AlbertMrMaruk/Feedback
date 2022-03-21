@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 2,
+      "text": "This is the second review from the backend",
+      "rating": 7
+    },
+    {
+      "id": 3,
+      "text": "This is the third review from the backend",
+      "rating": 5
+    },
+    {
+      "rating": "2",
+      "text": "This is automatic review 4",
+      "id": 4
+    },
+    {
+      "text": "SSDCRSRCSRCss",
+      "rating": 1,
+      "id": 5
+    }
+  ]
+}
